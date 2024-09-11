@@ -23,7 +23,7 @@ console.log(output2); // --> 9 */
 function test1(A, B) {
     // TODO: 여기에 코드를 작성하세요.
    //최대 공약수 구하기
-    const isGcd = function(a,b) {
+    const isGcd = functsssion(a,b) {
       if(!b) {
         return a
       }
